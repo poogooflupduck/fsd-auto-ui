@@ -62,7 +62,7 @@ export default function Home() {
       </div>
       <div className="m-1 mt-2 w-full rounded-lg">
         <img
-          src="./fsd-auto.jpg"
+          src="https://images.unsplash.com/photo-1561580125-028ee3bd62eb"
           className="rounded-lg object-cover"
           alt="Tailwind Play"
         />
