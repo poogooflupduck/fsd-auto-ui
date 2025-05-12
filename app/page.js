@@ -68,7 +68,7 @@ export default function Home() {
         />
       </div>
       <div className="m-1 mt-2 flex-auto">
-        <button className="rounded-lg bg-white px-4 py-2 text-gray-500 hover:cursor-pointer hover:bg-gray-800 hover:text-white">
+        <button className="rounded-lg bg-white px-4 py-2 text-gray-500 hover:cursor-pointer hover:bg-gray-800 hover:text-white active:bg-gray-800 active:text-white">
           <div className="flex">
             <svg
               xmlns="http://www.w3.org/2000/svg"
